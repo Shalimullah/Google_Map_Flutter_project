@@ -7,9 +7,9 @@ Clean Architecture and a responsive UI to ensure a premium user experience acros
 
 
 # TECHNOLOGIES
-Framework: (fLUTTER) [Cross-Platform UI]
-Language: (DART) [Client Optimized Language]
-Mapping Engine: Google_Maps_SDK
+## Framework: (fLUTTER) [Cross-Platform UI]
+## Language: (DART) [Client Optimized Language]
+## Mapping Engine: Google_Maps_SDK
 
 
 
